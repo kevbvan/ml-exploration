@@ -5,10 +5,10 @@ In this exploration, I took a data of over 50,000 Amazon reviews and classified 
 Libraries used: Pandas, Seaborn, Matplotlib, NLTK
 
 Due to the size contraint of Git, I am unable to upload all the data but will instead use screenshots to illustrate my findings.
-![Data Rows](/ss/data-rows.png)
+![Data Rows](/sentiment_analysis/ss/data-rows.png)
 
-![EDA](/ss/eda.png)
+![EDA](/sentiment_analysis/ss/eda.png)
 
-![Compound](/ss/compound.png)
+![Compound](/sentiment_analysis/ss/compound.png)
 
-![Coumpound Ratings](/ss/comp-rating.png)
+![Coumpound Ratings](/sentiment_analysis/ss/comp-rating.png)
